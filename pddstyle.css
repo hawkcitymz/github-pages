@@ -1,0 +1,9 @@
+p {
+text-align: justify;
+font-family: 'Roboto';
+}
+table {
+width: 700px;
+border-spacing: 20px;
+padding: 5px;
+}
